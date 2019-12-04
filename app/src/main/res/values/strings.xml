@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pic Select</string>
+    <string name="title_item_detail">The Admirals</string>
+    <string-array name = "pic_names_array">
+        <item>Patrick</item>
+        <item>Spongebob</item>
+        <item>Squidward</item>
+    </string-array>
+</resources>
